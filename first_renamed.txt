@@ -1,0 +1,4 @@
+this is verion 1 of my project
+I want this to go into commit 2
+change by Mazin Shamshad Khan
+this is change now, in reality we will change some code in our directory not like this, it is just for practice
